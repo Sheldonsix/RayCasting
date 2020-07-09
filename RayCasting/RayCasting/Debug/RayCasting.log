@@ -1,0 +1,27 @@
+﻿  cube.cpp
+  main.cpp
+D:\Sheldon\program\RayCasting\RayCasting\main.cpp(49,32): warning C4305: “=”: 从“double”到“float”截断
+D:\Sheldon\program\RayCasting\RayCasting\main.cpp(67,31): warning C4305: “=”: 从“double”到“float”截断
+D:\Sheldon\program\RayCasting\RayCasting\main.cpp(176,32): warning C4305: “=”: 从“double”到“float”截断
+D:\Sheldon\program\RayCasting\RayCasting\main.cpp(184,32): warning C4305: “=”: 从“double”到“float”截断
+D:\Sheldon\program\RayCasting\RayCasting\main.cpp(192,32): warning C4305: “=”: 从“double”到“float”截断
+D:\Sheldon\program\RayCasting\RayCasting\main.cpp(200,32): warning C4305: “=”: 从“double”到“float”截断
+D:\Sheldon\program\RayCasting\RayCasting\main.cpp(208,32): warning C4305: “=”: 从“double”到“float”截断
+D:\Sheldon\program\RayCasting\RayCasting\main.cpp(216,32): warning C4305: “=”: 从“double”到“float”截断
+D:\Sheldon\program\RayCasting\RayCasting\main.cpp(224,32): warning C4305: “=”: 从“double”到“float”截断
+D:\Sheldon\program\RayCasting\RayCasting\main.cpp(232,32): warning C4305: “=”: 从“double”到“float”截断
+D:\Sheldon\program\RayCasting\RayCasting\main.cpp(240,32): warning C4305: “=”: 从“double”到“float”截断
+D:\Sheldon\program\RayCasting\RayCasting\main.cpp(248,32): warning C4305: “=”: 从“double”到“float”截断
+D:\Sheldon\program\RayCasting\RayCasting\main.cpp(256,33): warning C4305: “=”: 从“double”到“float”截断
+D:\Sheldon\program\RayCasting\RayCasting\main.cpp(264,33): warning C4305: “=”: 从“double”到“float”截断
+D:\Sheldon\program\RayCasting\RayCasting\main.cpp(86,8): warning C4101: “cube”: 未引用的局部变量
+D:\Sheldon\program\RayCasting\RayCasting\main.cpp(399,12): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Sheldon\program\RayCasting\RayCasting\main.cpp(400,12): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  plane.cpp
+  sphere.cpp
+D:\Sheldon\program\RayCasting\RayCasting\sphere.cpp(20,12): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Sheldon\program\RayCasting\RayCasting\sphere.cpp(21,12): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  vector3d.cpp
+  正在生成代码...
+D:\Sheldon\program\RayCasting\RayCasting\main.cpp(341): warning C4715: “RayTraceRecursive”: 不是所有的控件路径都返回值
+  RayCasting.vcxproj -> D:\Sheldon\program\RayCasting\Debug\RayCasting.exe
